@@ -59,7 +59,7 @@ This is a lightweight **Agentic Workflow** (or sequential pipeline) that acts as
     Once the script finishes, open the generated `report_YYYY-MM-DD.html` file in your browser to view the analysis.
 
 ## 📊 Sample Output
-Want to see what the report looks like? Check out the [Sample HTML Report](examples/sample_report.html) in the `examples/` folder.
+Want to see what the report looks like? Check out the [Sample HTML Report](https://scabbiaza.github.io/ai-hype-watch/examples/sample_report.html) in the `examples/` folder.
 
 ## 📋 Example Execution
 
